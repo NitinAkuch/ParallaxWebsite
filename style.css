@@ -28,6 +28,7 @@ html, body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 
 }
 .ptext{
@@ -52,4 +53,8 @@ html, body{
 .section-light{
     background: #f4f4f4;
     color:#666 ;
+}
+.section-dark{
+    background-color: #282e34;
+    color: #ddd;
 }
